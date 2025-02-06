@@ -25,6 +25,8 @@ Binary Single Digit:
 
 
 Binary chart with AND (7408) and XOR (7486) integrated circuits
+
+
 ![image](https://github.com/user-attachments/assets/92463587-97ee-4804-985d-5975deaa8a04)
 
 
