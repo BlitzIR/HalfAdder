@@ -4,7 +4,7 @@ HalfAdder project for CRT 205: Physical Computing
 ## What is Binary?
 Binary is a number system that consists of two digits, 0 and 1. The binary system works on base 2, with only two possible numbers (0 and 1). Comparatively, the base 10 system with nine possible numbers (0-9) is widely used in measurements such as the metric system. The binary numbering system is used in electronics and computer systems and makes our technology work.
 
-Fun Fact: In binary, 1 = True and 0 = False. 
+Fun Fact: In binary, 1 = True and 0 = False. This concept uses boolean logic, where there is always an identifier for true and false inputs, which results in a true or false output. It uses the order of operations and logic rules.
 
 ## Binary Addition
 Binary addition is a unique system of addition because the numbering system only consists of 0 and 1. The maximum sums can only be two and the minimum is zero.
@@ -53,6 +53,8 @@ Binary chart with AND (7408) and XOR (7486) integrated circuits
 # The extra computer
 
 # Citations
+Awati, R. (2022, November 7). What is boolean in computing? – TechTarget definition. WhatIs. https://www.techtarget.com/whatis/definition/Boolean 
+
 CueMath. (n.d.). Binary addition - rules, examples, formula, faqs. Cuemath. https://www.cuemath.com/numbers/binary-addition/ 
 
 Justice, M. (2021). How computers really work: A hands-on guide to the inner workings of the Machine. No Starch Press, Inc. 
