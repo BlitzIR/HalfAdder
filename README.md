@@ -10,33 +10,43 @@ Binary addition is a unique system of addition because the numbering system only
 When faced with 1 + 1, this normally equals 2 in the base ten system. However, this actually equals zero and a one is carried over to the next set of numbers you are adding. It is like adding 65 + 65 and having to carry the one over the six because 5 + 5 = 10.
 
 Regular Addition:
-  1
-  65
-+ 65
-  --
-  130
+![image](https://github.com/user-attachments/assets/aab91a76-ac5b-4972-94b3-3b048684b56c)
+
 
 Binary Multi-Digit:
-  1   (The one carries over because 1 + 1 = 2 but two does not exist in binary. Therefore the sum is zero and the one carries over to the next set of numbers being added together)
-  0 1
-+ 0 1
-  ---
-  1 0 (in base 10/decimal format, this sum equals 2 because 01 + 01 is 1+1 in regular math.)
+![image](https://github.com/user-attachments/assets/8af91b73-6154-45e4-9ef3-61219324c962)
+
 
 Binary Single Digit:
-  0
-+ 1
----
-  1
+![image](https://github.com/user-attachments/assets/2cd64fa1-04da-42e5-b23f-74094052297a)
+
 
 # HalfAdder 
 
-# Truth Tables
+# Truth Table
+## Truth table for XOR and XAND Half Adder
+![image](https://github.com/user-attachments/assets/59ff5ceb-2889-41f9-bf0c-89cebc98a927)
+
 
 # Electronics Diagram
+## Half Adder from How Computers Really Work
+![image](https://github.com/user-attachments/assets/283cf2c4-6bc0-4263-8f8e-6eb7292217c3)
+## Half Adder Construction 
+![image](https://github.com/user-attachments/assets/c571784e-a108-42e5-96e0-e8ab834e719d)
+## Half Adder Concept in Action
+![image](https://github.com/user-attachments/assets/d1c6ebf9-a3ae-4e9f-8d3f-66ebfd73aa43)
 
 
-https://www.cuemath.com/numbers/binary-addition/
-https://www.lenovo.com/us/en/glossary/what-is-binary/?orgRef=https%253A%252F%252Fwww.google.com%252F&srsltid=AfmBOoqQpbEbAIdfuCoM5ARh5itq8IUPIYd9jJGjAmBOIDHKkXjPUniQ
+
+
+# HalfAdder Image
+## HalfAdder constructed by Brock Skelton & Fragko Tseni
+
+# The extra computer
+
+# Citations
+CueMath. (n.d.). Binary addition - rules, examples, formula, faqs. Cuemath. https://www.cuemath.com/numbers/binary-addition/ 
+Justice, M. (2021). How computers really work: A hands-on guide to the inner workings of the Machine. No Starch Press, Inc. 
+Lenovo. (n.d.). Introduction to binary: Basics and importance. Introduction to Binary: Basics and Importance | Lenovo US. https://www.lenovo.com/us/en/glossary/what-is-binary/
 
 
