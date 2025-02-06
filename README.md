@@ -47,7 +47,9 @@ Binary Single Digit:
 
 # Citations
 CueMath. (n.d.). Binary addition - rules, examples, formula, faqs. Cuemath. https://www.cuemath.com/numbers/binary-addition/ 
+
 Justice, M. (2021). How computers really work: A hands-on guide to the inner workings of the Machine. No Starch Press, Inc. 
+
 Lenovo. (n.d.). Introduction to binary: Basics and importance. Introduction to Binary: Basics and Importance | Lenovo US. https://www.lenovo.com/us/en/glossary/what-is-binary/
 
 
