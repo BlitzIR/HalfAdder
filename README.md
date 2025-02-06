@@ -2,7 +2,7 @@
 HalfAdder project for CRT 205: Physical Computing
 
 ## What is Binary?
-Binary is a number system that consists of two digits, 0 and 1. The binary system works on base 2 where there are only two possible numbers (0 and 1). Comparatively, the base 10 system with nine possible numbers (0-9) is widely used in measurements such as the metric system. The binary numbering system is used in electronics and computer systems and makes our technology work.
+Binary is a number system that consists of two digits, 0 and 1. The binary system works on base 2, with only two possible numbers (0 and 1). Comparatively, the base 10 system with nine possible numbers (0-9) is widely used in measurements such as the metric system. The binary numbering system is used in electronics and computer systems and makes our technology work.
 
 ## Binary Addition
 Binary addition is a unique system of addition because the numbering system only consists of 0 and 1. The maximum sums can only be two and the minimum is zero.
@@ -10,7 +10,8 @@ Binary addition is a unique system of addition because the numbering system only
 When faced with 1 + 1, this normally equals 2 in the base ten system. However, this actually equals zero and a one is carried over to the next set of numbers you are adding. It is like adding 65 + 65 and having to carry the one over the six because 5 + 5 = 10.
 
 Regular Addition:
-![image](https://github.com/user-attachments/assets/aab91a76-ac5b-4972-94b3-3b048684b56c)
+![image](https://github.com/user-attachments/assets/57459ff2-8521-4e73-b419-9afb56272089)
+
 
 
 Binary Multi-Digit:
