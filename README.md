@@ -12,15 +12,18 @@ Binary addition is a unique system of addition because the numbering system only
 When faced with 1 + 1, this normally equals 2 in the base ten system. However, this actually equals zero and a one is carried over to the next set of numbers you are adding. It is like adding 65 + 65 and having to carry the one over the six because 5 + 5 = 10.
 
 Regular Addition:
+
 ![image](https://github.com/user-attachments/assets/57459ff2-8521-4e73-b419-9afb56272089)
 
 
 
 Binary Multi-Digit:
+
 ![image](https://github.com/user-attachments/assets/8af91b73-6154-45e4-9ef3-61219324c962)
 
 
 Binary Single Digit:
+
 ![image](https://github.com/user-attachments/assets/2cd64fa1-04da-42e5-b23f-74094052297a)
 
 
