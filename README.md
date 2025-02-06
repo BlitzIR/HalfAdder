@@ -4,6 +4,8 @@ HalfAdder project for CRT 205: Physical Computing
 ## What is Binary?
 Binary is a number system that consists of two digits, 0 and 1. The binary system works on base 2, with only two possible numbers (0 and 1). Comparatively, the base 10 system with nine possible numbers (0-9) is widely used in measurements such as the metric system. The binary numbering system is used in electronics and computer systems and makes our technology work.
 
+Fun Fact: In binary, 1 = True and 0 = False. 
+
 ## Binary Addition
 Binary addition is a unique system of addition because the numbering system only consists of 0 and 1. The maximum sums can only be two and the minimum is zero.
 
@@ -22,10 +24,15 @@ Binary Single Digit:
 ![image](https://github.com/user-attachments/assets/2cd64fa1-04da-42e5-b23f-74094052297a)
 
 
+Binary chart with AND (7408) and XOR (7486) integrated circuits
+![image](https://github.com/user-attachments/assets/92463587-97ee-4804-985d-5975deaa8a04)
+
+
+
 # HalfAdder 
 
 # Truth Table
-## Truth table for XOR and XAND Half Adder
+## Truth table for XOR and AND Half Adder
 ![image](https://github.com/user-attachments/assets/59ff5ceb-2889-41f9-bf0c-89cebc98a927)
 
 
