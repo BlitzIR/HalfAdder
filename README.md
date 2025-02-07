@@ -1,4 +1,4 @@
-# HalfAdder
+# HalfAdder Documentation
 HalfAdder project for CRT 205: Physical Computing
 
 ## What is Binary?
@@ -34,7 +34,9 @@ Binary chart with AND (7408) and XOR (7486) integrated circuits
 
 
 
-# HalfAdder 
+# What is a HalfAdder?
+A HalfAdder is a binary addition circuit that adds the values of 0 and 1. These values are the only possible values in the binary or base-2 system. It uses electrical components and logic to execute operations which are displayed through LEDs wired to the circuit. 
+
 
 # Truth Table
 ## Truth table for XOR and AND Half Adder
