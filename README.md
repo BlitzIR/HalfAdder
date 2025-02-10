@@ -55,7 +55,13 @@ A HalfAdder is a binary addition circuit that adds the values of 0 and 1. These 
 
 
 # HalfAdder Image
-## HalfAdder constructed by Brock Skelton & Fragko Tseni
+## HalfAdder constructed by [Brock Skelton](https://github.com/bedrockskeleton/) & Fragko Tseni
+
+This half-adder uses more complicated wiring through buttons. In this example, the values 1+1 sum to a value greater than 1. The carried digit (1) is being represented by the red light.
+![halfadder111](https://github.com/user-attachments/assets/daf1016a-ff98-4ae8-935a-6bef6586db9a)
+
+In this example, the sum is 1. In this instance, 0+1 or 1+0 could be the combinations used to get an output of 1.
+![halfadder222](https://github.com/user-attachments/assets/a973f337-9d1b-434b-98b7-80abf21ce901)
 
 
 
