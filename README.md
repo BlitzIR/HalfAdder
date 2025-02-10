@@ -56,23 +56,29 @@ A HalfAdder is a binary addition circuit that adds the values of 0 and 1. These 
 
 # HalfAdder Image
 ## HalfAdder constructed by [Brock Skelton](https://github.com/bedrockskeleton/) & Fragko Tseni
-
-This half-adder uses more complicated wiring through buttons. In this example, the values 1+1 sum to a value greater than 1. The carried digit (1) is being represented by the red light.
+### 1+1 Example (A = 1 & B = 1)
+This half-adder uses more complicated wiring through buttons. In this example, both A and B = 1, the values 1+1 sum to a value greater than 1. The carried digit (1) is being represented by the red light.
 ![halfadder111](https://github.com/user-attachments/assets/daf1016a-ff98-4ae8-935a-6bef6586db9a)
-
-In this example, the sum is 1. In this instance, 0+1 or 1+0 could be the combinations used to get an output of 1.
+### 1+0 Example (A = 1 , B = 1)
+In this example, the sum is 1. In this instance, A = 1 and B = 0be the combinations used to get an output of 1.
 ![halfadder222](https://github.com/user-attachments/assets/a973f337-9d1b-434b-98b7-80abf21ce901)
 
-
-
 # The extra computer
+A CPU or processor is the brain of a computer Like all electrical components, it uses the bit system with binary processing (0 and 1). The ALU (Arithmetic Logic Unit) translates the binary addition. As a result, the sums and carries are decoded and turned into executable events such as turning on, displaying graphics, and numerous other actions.
+
+![cpu004](https://github.com/user-attachments/assets/4c27a582-6622-4149-bf9a-028f731ecba2)
+
 
 # Citations
 Awati, R. (2022, November 7). What is boolean in computing? – TechTarget definition. WhatIs. https://www.techtarget.com/whatis/definition/Boolean 
 
 CueMath. (n.d.). Binary addition - rules, examples, formula, faqs. Cuemath. https://www.cuemath.com/numbers/binary-addition/ 
 
+Cunningham, A. (2022, July 25). Motherboards are already supporting unreleased, unannounced 13th-Gen intel cpus. Ars Technica. https://arstechnica.com/gadgets/2022/07/motherboards-are-already-supporting-unreleased-unannounced-13th-gen-intel-cpus/ 
+
 Geeks, G. for. (2024, September 23). Half adder in digital logic. GeeksforGeeks. https://www.geeksforgeeks.org/half-adder-in-digital-logic/ 
+
+Hanna, K. T. (2021, August 9). What is an arithmetic-logic unit (ALU) and how does it work? WhatIs. https://www.techtarget.com/whatis/definition/arithmetic-logic-unit-ALU
 
 Justice, M. (2021). How computers really work: A hands-on guide to the inner workings of the Machine. No Starch Press, Inc. 
 
