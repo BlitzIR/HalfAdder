@@ -7,9 +7,9 @@ Binary is a number system that consists of two digits, 0 and 1. The binary syste
 Fun Fact: In binary, 1 = True and 0 = False. This concept uses boolean logic, where there is always an identifier for true and false inputs, which results in a true or false output. It uses the order of operations and logic rules.
 
 ## Binary Addition
-Binary addition is a unique system of addition because the numbering system only consists of 0 and 1. The maximum sums can only be two and the minimum is zero.
+Binary addition is a unique addition system because the numbering system only consists of 0 and 1. The maximum sums can only be two and the minimum is zero.
 
-When faced with 1 + 1, this normally equals 2 in the base ten system. However, this actually equals zero and a one is carried over to the next set of numbers you are adding. It is like adding 65 + 65 and having to carry the one over the six because 5 + 5 = 10.
+When faced with 1 + 1, this normally equals 2 in the base ten system. However, this actually equals zero and a one is carried over to the next set of numbers you are adding. It is like adding 65 + 65 and carrying the one over the six because 5 + 5 = 10.
 
 Regular Addition:
 
@@ -57,12 +57,16 @@ A HalfAdder is a binary addition circuit that adds the values of 0 and 1. These 
 # HalfAdder Image
 ## HalfAdder constructed by Brock Skelton & Fragko Tseni
 
+
+
 # The extra computer
 
 # Citations
 Awati, R. (2022, November 7). What is boolean in computing? – TechTarget definition. WhatIs. https://www.techtarget.com/whatis/definition/Boolean 
 
 CueMath. (n.d.). Binary addition - rules, examples, formula, faqs. Cuemath. https://www.cuemath.com/numbers/binary-addition/ 
+
+Geeks, G. for. (2024, September 23). Half adder in digital logic. GeeksforGeeks. https://www.geeksforgeeks.org/half-adder-in-digital-logic/ 
 
 Justice, M. (2021). How computers really work: A hands-on guide to the inner workings of the Machine. No Starch Press, Inc. 
 
