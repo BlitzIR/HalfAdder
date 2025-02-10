@@ -54,6 +54,8 @@ A HalfAdder is a binary addition circuit that adds the values of 0 and 1. These 
 
 
 
+
+
 # HalfAdder Image
 ## HalfAdder constructed by [Brock Skelton](https://github.com/bedrockskeleton/) & Fragko Tseni
 ### 1+1 Example (A = 1 & B = 1)
